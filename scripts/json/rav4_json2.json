@@ -1,0 +1,28 @@
+{
+    "document_id": "toyota_rav4_2024",
+    "vehicle": {
+        "model": "RAV4",
+        "type": "SUV",
+        "year": 2024
+    },
+    "variants": [
+        {
+            "name": "Gasoline",
+            "engine": {"type": "2.5L 4-Cylinder", "horsepower": 203},
+            "efficiency": {"city": 27, "highway": 35},
+            "pricing": {"base": 28000, "destination": 1200}
+        },
+        {
+            "name": "Hybrid",
+            "engine": {"type": "2.5L + Electric", "horsepower": 219},
+            "efficiency": {"city": 41, "highway": 38},
+            "pricing": {"base": 30000, "destination": 1200}
+        },
+        {
+            "name": "Prime",
+            "engine": {"type": "Plug-in Hybrid", "horsepower": 302},
+            "efficiency": {"mpge": 94, "electric_range": 42},
+            "pricing": {"base": 42000, "destination": 1200}
+        }
+    ]
+}

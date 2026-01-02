@@ -1,0 +1,41 @@
+[
+  {
+    "document_id": "toyota_corolla_2024",
+    "model": "Toyota Corolla",
+    "type": "Sedan",
+    "price_range": {
+      "min": 20000,
+      "max": 27000
+    },
+    "features": [
+      "Safety Sense",
+      "Apple CarPlay"
+    ]
+  },
+  {
+    "document_id": "toyota_rav4_2024",
+    "model": "Toyota RAV4",
+    "type": "SUV",
+    "price_range": {
+      "min": 28000,
+      "max": 42000
+    },
+    "features": [
+      "Hybrid Option",
+      "AWD"
+    ]
+  },
+  {
+    "document_id": "toyota_highlander_2024",
+    "model": "Toyota Highlander",
+    "type": "SUV",
+    "price_range": {
+      "min": 37000,
+      "max": 50000
+    },
+    "features": [
+      "3-Row Seating",
+      "Hybrid Option"
+    ]
+  }
+]

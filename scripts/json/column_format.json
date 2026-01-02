@@ -1,0 +1,17 @@
+{
+    "model": [
+      "Corolla",
+      "RAV4",
+      "Camry"
+    ],
+    "type": [
+      "Sedan",
+      "SUV",
+      "Sedan"
+    ],
+    "price": [
+      22000,
+      28000,
+      26000
+    ]
+  }

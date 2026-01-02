@@ -1,0 +1,17 @@
+{
+  "model": "Toyota RAV4",
+  "type": "SUV",
+  "year": 2024,
+  "variants": [
+    {
+      "name": "Gasoline",
+      "horsepower": 203,
+      "price": 28000
+    },
+    {
+      "name": "Hybrid",
+      "horsepower": 219,
+      "price": 30000
+    }
+  ]
+}

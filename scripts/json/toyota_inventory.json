@@ -1,0 +1,44 @@
+[
+  {
+    "document_id": "toyota_corolla_2024",
+    "model": "Toyota Corolla",
+    "type": "Sedan",
+    "price_range": {
+      "min": 20000,
+      "max": 27000
+    },
+    "mpg": {
+      "city": 30,
+      "highway": 38
+    },
+    "seating": 5
+  },
+  {
+    "document_id": "toyota_rav4_2024",
+    "model": "Toyota RAV4",
+    "type": "SUV",
+    "price_range": {
+      "min": 28000,
+      "max": 42000
+    },
+    "mpg": {
+      "city": 27,
+      "highway": 35
+    },
+    "seating": 5
+  },
+  {
+    "document_id": "toyota_highlander_2024",
+    "model": "Toyota Highlander",
+    "type": "SUV",
+    "price_range": {
+      "min": 37000,
+      "max": 50000
+    },
+    "mpg": {
+      "city": 21,
+      "highway": 29
+    },
+    "seating": 8
+  }
+]
