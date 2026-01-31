@@ -1,0 +1,36 @@
+# Core Framework
+streamlit>=1.28.0
+
+# LangChain Ecosystem
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-google-genai>=4.2.0
+langchain-chroma>=0.1.0
+langsmith>=0.1.0
+
+# Vector Database
+chromadb>=0.4.22
+
+# Google Cloud Platform
+google-cloud-aiplatform>=1.38.0
+google-auth>=2.23.0
+
+# PDF Processing
+pypdf>=3.17.0
+
+# Environment Management
+python-dotenv>=1.0.0
+
+# Additional Utilities
+typing-extensions>=4.8.0
+pydantic>=2.5.0
+
+# Token Counting (for observability)
+tiktoken>=0.5.0
+
+# Data Handling for Metrics Display
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Progress Bars and UI Components
+tqdm>=4.66.0
